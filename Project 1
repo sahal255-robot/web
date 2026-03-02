@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personal Resume</title>
+</head>
+
+<body>
+
+<!-- Profile Picture -->
+<center>
+    <img src="profile.jpg" alt="Profile Picture" width="150">
+</center>
+
+<!-- Name -->
+<h1 align="center">Sahal Hassen</h1>
+
+<hr>
+
+<!-- Objective -->
+<h1>Objective</h1>
+<p>
+Motivated college student seeking opportunities to apply technical and problem-solving skills.
+Passionate about learning new technologies and improving professional experience.
+Dedicated to contributing positively to team environments while growing career knowledge.
+</p>
+
+<hr>
+
+<!-- Qualification -->
+<h1>Qualification</h1>
+<ul>
+    <li>High School Diploma</li>
+    <li>Currently pursuing college degree</li>
+    <li>Basic knowledge of HTML and programming</li>
+</ul>
+
+<!-- Job Experience -->
+<h1>Job Experience</h1>
+<table border="1">
+    <tr>
+        <th>Company</th>
+        <th>Position</th>
+        <th>Duration</th>
+    </tr>
+    <tr>
+        <td>ABC Store</td>
+        <td>Sales Associate</td>
+        <td>2023 – 2024</td>
+    </tr>
+    <tr>
+        <td>XYZ Company</td>
+        <td>Intern</td>
+        <td>2024 – Present</td>
+    </tr>
+</table>
+
+<!-- Projects -->
+<h1>Projects</h1>
+<ul>
+    <li>Personal Profile Webpage</li>
+    <li>HTML Registration Form</li>
+    <li>Resume Website Project</li>
+</ul>
+
+<!-- Tools/Technologies -->
+<h1>Tools/Technologies</h1>
+<ul>
+    <li>HTML</li>
+    <li>Microsoft Word</li>
+    <li>GitHub</li>
+    <li>Web Browsers</li>
+</ul>
+
+<!-- Social Media -->
+<h1>Social Media</h1>
+<p>
+    <a href="https://github.com/" target="_blank">GitHub</a><br>
+    <a href="https://linkedin.com/" target="_blank">LinkedIn</a><br>
+    <a href="https://instagram.com/" target="_blank">Instagram</a>
+</p>
+
+<!-- References -->
+<h1>References</h1>
+<p>
+Available upon request.
+</p>
+
+</body>
+</html>
